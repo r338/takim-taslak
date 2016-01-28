@@ -5,30 +5,17 @@ permalink:           pretty
 relative_permalinks: true
 
 # Setup
-<<<<<<< HEAD
-title:               -Renk- Takım
-tagline:             'R 338 Proje Grubu'
-description:         'Akademik Bilişim 2016 - R ile Veri Analizi kursunun Takım -Renk-e ait proje sayfasıdır.'
-url:                 http://lanyon.getpoole.com
-baseurl:             '/renk-takim'
-=======
 title:               R ile Veri Analizi Kursu
 tagline:             'Akademik Bilişim 2016'
 description:         '30 Ocak - 2 Şubat 2016 tarihleri arasında düzenlenen Akademik Bilişim 2016 Kurslarından R ile Veri Analizi kursu web sayfası. Bu sayfadan eğitimle ilgili duyuru, ders materyalleri ve örnek kodlara ulaşabilirsiniz.'
 url:                 http://r338.github.io/ab-2016
 baseurl:             '/ab-2016'
->>>>>>> master
 paginate:            5
 
 # About/contact
 author:
-<<<<<<< HEAD
-  name:              Takım Adı
-  url:               
-=======
   name:              "Mustafa Baydoğan & Berk Orbay"
   url:               http://r338.github.io/ab-2016
->>>>>>> master
   email:             
 
 # Custom vars
