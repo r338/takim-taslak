@@ -14,7 +14,7 @@ paginate:            5
 
 # About/contact
 author:
-  name:              "Mustafa Baydoğan & Berk Orbay"
+  name:              'Mustafa Baydoğan & Berk Orbay'
   url:               http://r338.github.io/ab-2016
   email:             
 
