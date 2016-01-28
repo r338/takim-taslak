@@ -1,5 +1,50 @@
-# Lanyon
+# R ile Veri Analizi Kursu
+### Akademik Bilişim 2016 Kursları (30 Ocak - 2 Şubat 2016)
 
+**Kurs Eğitmenleri**
+
+* Y. Doç. Dr. Mustafa Baydoğan
+* Berk Orbay
+
+**Kurs İçeriği**
+
+Bu eğitimin amacı, veri analizi çalışmalarında bilgisayar yazılımlarını kullanan kişileri bu alandaki en yaygın dillerden olan R ile tanıştırmaktır. 
+
+R dinamik, yüksek seviyeli ve çok çeşitli bilimsel kütüphanelere sahip bir dil olarak; hem C gibi derlenen dillerin çalışma hızlarının yerine programcı verimini öne çıkarıyor, hem de Matlab gibi ticari lisanslı yazılımlara ihtiyacı büyük oranda ortadan kaldırıyor. 
+
+Özellikle büyük veri (big data) ve veri bilimi (data science) kavramlarının popülerliğinin artmasıyla birlikte R'a katılım ve ilgi de büyük ölçüde arttı. 6500'un üzerinde R paketi isteyen herkesin kullanımına açık ve tek satır komut ile erişilebilir durumda. R son bir yıl içerisinde en popüler programlama dilleri listesinde 20 basamak birden yükselirken alandaki diğer ticari yazılımlar olan SAS, MATLAB ve SPSS gibi programlara karşı da gerek özgür yazılım olması ile gerek esnekliği ve performansı ile popülerliği arttı. Artık veri bilimi denince, R, akla ilk gelen iki programlama dilinden biri (diğeri ise Python) oldu.
+
+Eğitimin amacı katılımcıların veri analizi çalışmalarını R ile verimli bir şekilde sürdürebilecekleri bir noktaya gelmiş olarak ayrılmalarını sağlamaktır.
+
+
+Kursun adı: R diline giriş ve veri analiz
+
+##Hedefi:
+
+Bu eğitimin amacı, veri analizi çalışmalarında bilgisayar yazılımlarını kullanan kişileri bu alandaki en yaygın dillerden olan R ile tanıştırmaktır. R dinamik, yüksek seviyeli ve çok çeşitli bilimsel kütüphanelere sahip bir dil olarak; hem C gibi derlenen dillerin çalışma hızlarının yerine programcı verimini öne çıkarıyor, hem de Matlab gibi ticari lisanslı yazılımlara ihtiyacı büyük oranda ortadan kaldırıyor. Özellikle büyük veri (big data) ve veri bilimi (data science) kavramlarının popülerliğinin artmasıyla birlikte R'a katılım ve ilgi de büyük ölçüde arttı. 6500'un üzerinde R paketi isteyen herkesin kullanımına açık ve tek satır komut ile erişilebilir durumda. R son bir yıl içerisinde en popüler programlama dilleri listesinde 20 basamak birden yükselirken alandaki diğer ticari yazılımlar olan SAS, MATLAB ve SPSS gibi programlara karşı da gerek özgür yazılım olması ile gerek esnekliği ve performansı ile popülerliği arttı. Artık veri bilimi denince, R, akla ilk gelen iki programlama dilinden biri (diğeri ise Python) oldu.  Eğitimin amacı katılımcıların veri analizi çalışmalarını R ile verimli bir şekilde sürdürebilecekleri bir noktaya gelmiş olarak ayrılmalarını sağlamaktır. 
+##Kursa kimler katılabilir?
+
+
+ Veri analizi çalışmalarında bilgisayar yazılımlarını kullanan kişiler
+
+##Önkoşullar:
+
+Eğitime katılmak için tek önkoşul, kişisel bilgisayarını verimli kullanabilecek seviyede bilgisayar okur-yazarlığıdır. Eğitimden daha yüksek verim almak açısından daha önce programlama yapmış ve araştırma gerçekleştirmiş olmak çok faydalı olacaktır. 
+
+##Program:
+
+1. Gün, 1. Yarım Gün: R'a giriş, veri yapıları
+1. Gün, 2. Yarım Gün: Uygulama
+
+2. Gün, 1. Yarım Gün: R ile temel programlamaya giriş
+2. Gün, 2. Yarım Gün: Uygulama
+
+3. Gün, 1. Yarım Gün: R ile veri analizi
+3. Gün, 2. Yarım Gün: Uygulama
+4. Gün, 1. Yarım Gün: R ile veri görselleştirme
+4. Gün, 2. Yarım Gün: Uygulama
+
+<!--
 Lanyon is an unassuming [Jekyll](http://jekyllrb.com) theme that places content first by tucking away navigation in a hidden drawer. It's based on [Poole](http://getpoole.com), the Jekyll butler.
 
 ![Lanyon](https://f.cloud.github.com/assets/98681/1825266/be03f014-71b0-11e3-9539-876e61530e24.png)
@@ -132,3 +177,4 @@ Lanyon has two branches, but only one is used for active development.
 Open sourced under the [MIT license](LICENSE.md).
 
 <3
+-->
