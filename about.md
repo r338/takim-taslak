@@ -9,7 +9,7 @@ title: Eğitmenler
 
 #Berk Orbay (Boğaziçi Üniversitesi)
 
-ODTÜ Endüstri Mühendisliği bölümünden 2008’de lisans, 2011’de yüksek lisans  derecelerini aldı. 2011 yılından itibaren Boğaziçi Üniversitesi Endüstri Mühendisliği  bölümünde finans alanında opsiyon fiyatlama modelleri üzerine doktora yapıyor.  TBMM’de milletvekili danışmanı olarak ve bir eğitim ve danışmanlık şirketi olan [http://parlakbirgelecek.com](Parlakbirgelecek.com)’da ürün geliştirme koordinatörü olarak çalıştı. R programlama dili ile daha çok eğitim ve finans alanlarında olmak üzere analiz ve veri görselleştirme üzerinde çalışıyor.
+ODTÜ Endüstri Mühendisliği bölümünden 2008’de lisans, 2011’de yüksek lisans  derecelerini aldı. 2011 yılından itibaren Boğaziçi Üniversitesi Endüstri Mühendisliği  bölümünde finans alanında opsiyon fiyatlama modelleri üzerine doktora yapıyor.  TBMM’de milletvekili danışmanı olarak ve bir eğitim ve danışmanlık şirketi olan [Parlakbirgelecek.com](http://parlakbirgelecek.com)’da ürün geliştirme koordinatörü olarak çalıştı. R programlama dili ile daha çok eğitim ve finans alanlarında olmak üzere analiz ve veri görselleştirme üzerinde çalışıyor.
 
 
 <!---
