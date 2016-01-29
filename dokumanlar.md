@@ -3,6 +3,8 @@ layout: page
 title: Dökümanlar
 ---
 
+##Ana Döküman
+
 [Yeni Başlayanlar için R'a Hızlı Giriş](https://github.com/r338/ab-2016/blob/master/materyaller/dokumanlar/R_Giris_AB2016_20160130.pdf) dökümanını indirip inceleyebilirsiniz. Özellikle ilk gün işleyeceklerimiz ve daha fazlası bu dökümanın içinde bulunuyor.
 
 Ayrıca aşağıdaki dökümanlar da size R ile veri analizi esnasında yardımcı olacak önemli kaynaklardır.
