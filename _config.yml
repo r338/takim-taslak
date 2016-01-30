@@ -7,17 +7,17 @@ markdown: 			 redcarpet
 #relative_permalinks: true
 
 # Setup
-title:               R ile Veri Analizi Kursu
+title:               R-338 (Renk) Takım Proje Sayfası
 tagline:             'Akademik Bilişim 2016'
-description:         '30 Ocak - 2 Şubat 2016 tarihleri arasında düzenlenen Akademik Bilişim 2016 Kurslarından R ile Veri Analizi kursu web sayfası. Bu sayfadan eğitimle ilgili duyuru, ders materyalleri ve örnek kodlara ulaşabilirsiniz.'
+description:         'Kısa proje tanımını buraya girin'
 url:                 http://r338.github.io/ab-2016
-baseurl:             '/ab-2016'
+baseurl:             '/takim-taslak'
 paginate:            5
 
 # About/contact
 author:
-  name:              'Mustafa Baydoğan & Berk Orbay'
-  url:               http://r338.github.io/ab-2016
+  name:              'Takım elemanları'
+  url:               http://r338.github.io/takim-taslak
   email:             
 
 # Custom vars
