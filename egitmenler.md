@@ -9,6 +9,9 @@ title: Eğitmenler
 
 <p>
 <a href="https://www.linkedin.com/in/mustafa-baydogan-36127a2" target="_blank"><i class="fa fa-linkedin-square fa-2x"></i></a>
+<!-- 
+<a href="" target="_blank"><i class="fa fa-facebook fa-2x"></i></a>
+-->
 <a href="" target="_blank"><i class="fa fa-twitter fa-2x"></i></a>
 <a href="http://www.mustafabaydogan.com" target="_blank"><i class="fa fa-globe fa-2x"></i></a>
 <a href="mailto:baydoganmustafa@gmail.com" target="_blank"><i class="fa fa-envelope fa-2x"></i></a>
@@ -19,7 +22,10 @@ title: Eğitmenler
 
 ODTÜ Endüstri Mühendisliği bölümünden 2008’de lisans, 2011’de yüksek lisans  derecelerini aldı. 2011 yılından itibaren Boğaziçi Üniversitesi Endüstri Mühendisliği  bölümünde finans alanında opsiyon fiyatlama modelleri üzerine doktora yapıyor.  TBMM’de milletvekili danışmanı olarak ve bir eğitim ve danışmanlık şirketi olan [ParlakBirGelecek](http://parlakbirgelecek.com)’te ürün geliştirme koordinatörü olarak çalıştı. R programlama dili ile daha çok eğitim ve finans alanlarında olmak üzere analiz ve veri görselleştirme üzerinde çalışıyor.
 
-<p><a href="https://tr.linkedin.com/in/berkorbay" target="_blank"><i class="fa fa-linkedin-square fa-4x"></i></a>
+<p><a href="https://tr.linkedin.com/in/berkorbay" target="_blank"><i class="fa fa-linkedin-square fa-2x"></i></a>
+<!-- 
+<a href="" target="_blank"><i class="fa fa-facebook fa-2x"></i></a> 
+-->
 <a href="" target="_blank"><i class="fa fa-twitter fa-2x"></i></a>
 <a href="" target="_blank"><i class="fa fa-globe fa-2x"></i></a>
 <a href="mailto:berkorbay@gmail.com" target="_blank"><i class="fa fa-envelope fa-2x"></i></a>
